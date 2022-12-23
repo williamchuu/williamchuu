@@ -2,7 +2,7 @@
 <h3 align="left">UI/UX & Graphic Designer</h3>
 
 
-<p align="left">This profile is under construction :)
+<p align="left"
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
