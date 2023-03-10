@@ -2,6 +2,8 @@
 
 <h1 align="left">William Chu</h1>
 <h3 align="left">UI/UX and Digital Designer</h3>
+<p align="left">Check out my portfolio <a href="https://williamchu.vercel.app">here</a>.</p>
+
 <br/>
 
 
