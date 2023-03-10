@@ -1,11 +1,14 @@
 ![williamchu-01](https://user-images.githubusercontent.com/91351130/223567687-27456edc-a12a-46d8-8e83-08a2f620a18a.svg)
 
 <h1 align="left">William Chu</h1>
-<h3 align="left">UI/UX Designer and Frontend Developer</h3>
+<h3 align="left">UI/UX and Digital Designer</h3>
+<br/>
 
-<h3> Design Programs </h3>
+
+
+<h4> Design Programs </h4>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </a></p>
-<h3> Developer Tools </h3></p>
+<h4> Developer Tools </h4></p>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,5 +26,6 @@
   
   <h3> Connect </h3>
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-chu/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-chu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://williamchu.vercel.app)
 
