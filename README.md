@@ -1,4 +1,5 @@
-![williamchu-01](https://user-images.githubusercontent.com/91351130/223567687-27456edc-a12a-46d8-8e83-08a2f620a18a.svg)
+<!-- ![williamchu-01](https://user-images.githubusercontent.com/91351130/223567687-27456edc-a12a-46d8-8e83-08a2f620a18a.svg) -->
+<img src='/imgs/logo_ani.gif' alt='logo' width='100%'>
 
 <h1 align="left">William Chu</h1>
 <h3 align="left">UI/UX and Digital Designer</h3>
