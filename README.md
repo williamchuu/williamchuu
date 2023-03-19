@@ -1,4 +1,5 @@
-![williamchu-01](https://user-images.githubusercontent.com/91351130/223567687-27456edc-a12a-46d8-8e83-08a2f620a18a.svg)
+![logoani](https://user-images.githubusercontent.com/91351130/226162592-b5f90d86-9216-46e3-8cbe-5d25b9956bfe.gif)
+
 <!-- <img src='/imgs/logo_ani.gif' alt='logo' width='80%'> -->
 
 <!-- <h1 align="left">William Chu</h1> -->
